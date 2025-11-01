@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmvillaltas
 - 👀 I’m interested in Fullstack Web Development.
-- 📫 You can contact me by WhatsApp: +50686906451 or by email: jmvillalta@outlook.es
+- 📫 You can contact me by WhatsApp: +50687572242 or by email: jmvillalta@outlook.es
 
 <!---
 jmvillaltas/jmvillaltas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
